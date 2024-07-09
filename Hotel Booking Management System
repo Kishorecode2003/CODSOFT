@@ -1,13 +1,3 @@
-/*
-	
-	Title			: Hotel Management System
-	Language		: C++
-	Author			: Daljeet Singh Chhabra
-	Date Created	: 16-02-2016
-	Last Modified	: 01-10-2018
-
-*/
-
 #include<fstream.h>
 #include<iostream.h>
 #include<conio.h>
